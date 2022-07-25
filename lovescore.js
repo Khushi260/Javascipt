@@ -11,13 +11,17 @@ alert("Your lovescore is " + lovescore+"% .");
 
 //using conditional statements
 
+if (lovescore===100){
+    alert("Your lovescore is " + lovescore + "% .  You both are made for each other.");
+}
+
 if (lovescore>=70){
     alert("Your lovescore is " + lovescore + "% .  You both love each other like Kanye loves Kanye.");
 }
-else if(lovescore>49){
+ if(lovescore>30 && lovescore<70){
       alert("Your lovescore is " + lovescore + "% . You love them more.");
 }
 
-else{
+if (lovescore<30){
     alert("Your lovescore is " + lovescore+"% .");
 }
