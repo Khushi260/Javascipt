@@ -5,7 +5,9 @@ var count =1;
 
 function FizzBuzz(){
      
-    if (count % 5===0 && count%3===0){
+     while(count<=100){
+          
+          if (count % 5===0 && count%3===0){
         output.push("FizzBuzz");
     }
       else if (count % 5===0){
@@ -21,6 +23,9 @@ function FizzBuzz(){
     }
    
     count++;
+     }
+     
+    
 
    console.log(output);
 }
