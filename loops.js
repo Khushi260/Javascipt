@@ -15,3 +15,18 @@ for( let i=1; i<n; i++){
 }
 
 console.log("Sum of first" + n + " natural numbers is " + sum);
+
+
+// for of loop
+
+let obj = { kuku : 98,
+           midori : 98,
+           kimochi : 89,
+           lamba : 79,
+           pigga : 60, anshika : 100
+          }
+
+for ( a  in obj ) {
+    console.log("Marks of" +  a + "are " + obj [a]);
+}
+
