@@ -30,3 +30,8 @@ for ( a  in obj ) {
     console.log("Marks of" +  a + "are " + obj [a]);
 }
 
+// for of loop
+
+for ( let  b of "Harry" ){
+    console.log(b);
+}
