@@ -1,0 +1,19 @@
+#1) CD- Change Directory
+This command allows users to change from one directory to another or move from one folder to another.
+
+#2) Mkdir
+This command is used when subdirectories are to be created within the directories.
+
+#3) REN: Rename
+
+#4) ASSOC: Fix File Associations
+This is one of the most basic and most common commands. It helps to associate (as the name suggests) some file extensions to some programs. 
+For Example- When we click on .doc (extension), the computer is able to decide that it needs to associate it with Microsoft Word. 
+
+#7) SHUTDOWN: Turn off Computer
+
+This command is a very resourceful command. By using this command, users can not just shut down computers but also can control the process of the shutdown. 
+This command is popular in situations where shutdown is part of a planned task.
+
+Users can type shutdown/i on the command prompt and choose to either restart or a complete shutdown on the GUI dialogue box that appears. 
+Users have a choice to avoid this GUI dialogue box by typing the shutdown/s command.
