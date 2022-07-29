@@ -22,3 +22,11 @@ Users have a choice to avoid this GUI dialogue box by typing the shutdown/s comm
 
 This command helps to get system-related information like a network card, Windows OS, or details of the processor. 
 The information provided by this command is easy to comprehend.
+
+#9) SFC: System File Checker
+
+This command helps to detect any malware or virus threat by running a scan on the core system files. In order to run this command, 
+Administrator rights are needed. On the CMD command prompt icon, use the right-click key and select the option RUN as Administrator.
+
+Users need to type SFC/SCANNOW to run a diagnostic check to ensure all files are safe from malware and in case of any threat of malware, 
+these files are repaired using the backup files.
