@@ -17,3 +17,8 @@ This command is popular in situations where shutdown is part of a planned task.
 
 Users can type shutdown/i on the command prompt and choose to either restart or a complete shutdown on the GUI dialogue box that appears. 
 Users have a choice to avoid this GUI dialogue box by typing the shutdown/s command.
+
+#8) SYSTEMINFO: System Information
+
+This command helps to get system-related information like a network card, Windows OS, or details of the processor. 
+The information provided by this command is easy to comprehend.
